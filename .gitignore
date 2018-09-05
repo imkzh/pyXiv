@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# jetbrain
+.idea/
+
+# downloaded files:
+*.pdf
+*.json
+
